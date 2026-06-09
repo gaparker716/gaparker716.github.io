@@ -1,3 +1,5 @@
+import { img } from "src\images\profile-4.jpg"
+
 export default function About() {
   return (
     <div className="page container">
@@ -8,7 +10,7 @@ export default function About() {
 
       <section className="about-hero">
         <div className="avatar" aria-hidden="true" tabIndex="0">
-          <img src="src\images\profile-4.jpg" alt="Picture of Grace Parker" />
+          <img src={img} alt="Picture of Grace Parker" />
         </div>
         <div>
           <h2>Grace Parker</h2>
