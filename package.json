@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gaparker716.github.io/",
+  "homepage": "https://gaparker716.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,6 +13,7 @@
     "bootstrap": "^5.3.8",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.10",
+    "react-dom": "^18.3.1",
     "react-modal": "^3.16.3"
   },
   "devDependencies": {
