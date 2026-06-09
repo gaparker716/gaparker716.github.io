@@ -1,21 +1,21 @@
-import { vanpage } from "src/images/vanlife/vans.png"
-import { vanlist } from "src/images/vanlife/vanlist.png"
-import { dashboard } from "src/images/vanlife/dashboard.png"
-import { reviews } from "src/images/vanlife/reviews.png"
+import vanpage from "../images/vanlife/vans.png"
+import vanlist from "../images/vanlife/vanlist.png"
+import dashboard from "../images/vanlife/dashboard.png"
+import reviews from "../images/vanlife/reviews.png"
 
-import { rentalhome } from "src/images/rental/uxheuristic8.png"
-import { rentaldetails } from "src/images/rental/uxheuristic7-1.png"
-import { rentalapps } from "src/images/rental/portfolio-pic.png"
+import rentalhome from "../images/rental/uxheuristic8.png"
+import rentaldetails from "../images/rental/uxheuristic7-1.png"
+import rentalapps from "../images/rental/portfolio-pic.png"
 
-import { chinookhome } from "src/images/chinook/homepage.png"
-import { chinooktracks } from "src/images/chinook/trackpage.png"
-import { chinooksearch } from "src/images/chinook/advancedsearch.png"
-import { chinookedit } from "src/images/chinook/editpage.png"
+import chinookhome from "../images/chinook/homepage.png"
+import chinooktracks from "../images/chinook/trackpage.png"
+import chinooksearch from "../images/chinook/advancedsearch.png"
+import chinookedit from "../images/chinook/editpage.png"
 
-import { usecasediagram } from "src/images/diet/usecasediagram.jpg"
-import { statechart } from "src/images/diet/statechart.jpg"
-import { dietgoaldiagram } from "src/images/diet/dietgoaldiagram.jpg"
-import { classdiagram } from "src/images/diet/classdiagram.jpeg"
+import usecasediagram from "../images/diet/usecasediagram.jpg"
+import statechart from "../images/diet/statechart.jpg"
+import dietgoaldiagram from "../images/diet/dietgoaldiagram.jpg"
+import classdiagram from "../images/diet/classdiagram.jpeg"
 
 
 import Carousel from 'react-bootstrap/Carousel';

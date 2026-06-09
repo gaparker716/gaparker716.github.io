@@ -1,4 +1,4 @@
-import { img } from "src\images\profile-4.jpg"
+import img from "../images/profile-4.jpg"
 
 export default function About() {
   return (
